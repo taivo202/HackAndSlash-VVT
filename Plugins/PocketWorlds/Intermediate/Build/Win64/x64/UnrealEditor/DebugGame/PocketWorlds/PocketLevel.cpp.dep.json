@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\pocketworlds\\source\\private\\pocketlevel.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\intermediate\\build\\win64\\x64\\lyraeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\pocketworlds\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\pocketworlds\\definitions.pocketworlds.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\pocketworlds\\source\\public\\pocketlevel.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\pocketworlds\\intermediate\\build\\win64\\unrealeditor\\inc\\pocketworlds\\uht\\pocketlevel.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\pocketworlds\\intermediate\\build\\win64\\unrealeditor\\inc\\pocketworlds\\uht\\pocketlevel.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

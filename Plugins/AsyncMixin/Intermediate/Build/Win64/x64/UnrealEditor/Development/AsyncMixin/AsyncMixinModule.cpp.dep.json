@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\asyncmixin\\source\\private\\asyncmixinmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\asyncmixin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asyncmixin\\definitions.asyncmixin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

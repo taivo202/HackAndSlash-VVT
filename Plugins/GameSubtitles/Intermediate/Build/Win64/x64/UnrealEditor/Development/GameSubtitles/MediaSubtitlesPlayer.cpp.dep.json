@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesubtitles\\source\\private\\players\\mediasubtitlesplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesubtitles\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamesubtitles\\definitions.gamesubtitles.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesubtitles\\source\\public\\players\\mediasubtitlesplayer.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesubtitles\\uht\\mediasubtitlesplayer.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\mediaassets\\public\\mediaplayer.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\media\\public\\imediaoptions.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\media\\public\\imediametadataitem.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\media\\public\\imediacontrols.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\mediautils\\public\\mediaplayeroptions.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediautils\\uht\\mediaplayeroptions.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\media\\public\\imediatimesource.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediaassets\\uht\\mediaplayer.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\overlay\\public\\overlays.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\overlay\\uht\\overlays.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\public\\subtitlemanager.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesubtitles\\uht\\mediasubtitlesplayer.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

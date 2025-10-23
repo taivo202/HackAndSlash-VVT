@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesettings\\source\\private\\editcondition\\whenplayingasprimaryplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamesettings\\definitions.gamesettings.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesettings\\source\\public\\editcondition\\whenplayingasprimaryplayer.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesettings\\source\\public\\gamesettingfilterstate.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesettings\\uht\\gamesettingfilterstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

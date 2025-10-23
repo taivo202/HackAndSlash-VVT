@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LyraExtTool-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Intermediate/Build/Win64/x64/LyraEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/LyraExtTool/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/LyraExtTool/Module.LyraExtTool.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/LyraExtTool/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/LyraExtTool/BPFunctionLibrary.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/LyraExtTool/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/LyraExtTool/LyraExtTool.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/LyraExtTool/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/LyraExtTool/Default.rc2.res"
+/OUT:"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/LyraExtTool/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/LyraExtTool/UnrealEditor-LyraExtTool-Win64-DebugGame.lib"

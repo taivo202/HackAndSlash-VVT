@@ -1,0 +1,41 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameSettings-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Intermediate/Build/Win64/x64/LyraEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/Module.GameSettings.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSetting.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingAction.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingCollection.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingFilterState.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingsModule.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingValue.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingValueDiscrete.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingValueDiscreteDynamic.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingValueScalar.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingValueScalarDynamic.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingDataSourceDynamic.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/WhenPlatformHasTrait.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/WhenPlayingAsPrimaryPlayer.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingRegistry.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingRegistryChangeTracker.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingDetailExtension.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingDetailView.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingListEntry.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingListView.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingPanel.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingScreen.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingVisualData.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/IGameSettingActionInterface.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingPressAnyKey.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameSettingRotator.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/KeyAlreadyBoundWarning.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameResponsivePanel.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/GameResponsivePanelSlot.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/SGameResponsivePanel.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/Default.rc2.res"
+/OUT:"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameSettings/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameSettings/UnrealEditor-GameSettings-Win64-DebugGame.lib"

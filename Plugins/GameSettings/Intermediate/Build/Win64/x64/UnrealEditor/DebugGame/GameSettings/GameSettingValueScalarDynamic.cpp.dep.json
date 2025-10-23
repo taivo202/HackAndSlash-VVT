@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\source\\private\\gamesettingvaluescalardynamic.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\intermediate\\build\\win64\\x64\\lyraeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\gamesettings\\definitions.gamesettings.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\source\\public\\gamesettingvaluescalardynamic.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\source\\public\\gamesettingvaluescalar.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\source\\public\\gamesettingvalue.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\source\\public\\gamesetting.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\slatewrappertypes.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\source\\public\\gamesettingfilterstate.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesettings\\uht\\gamesettingfilterstate.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesettings\\uht\\gamesetting.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesettings\\uht\\gamesettingvalue.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesettings\\uht\\gamesettingvaluescalar.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesettings\\uht\\gamesettingvaluescalardynamic.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\source\\public\\datasource\\gamesettingdatasource.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\lyrastartergame2\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesettings\\uht\\gamesettingvaluescalardynamic.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

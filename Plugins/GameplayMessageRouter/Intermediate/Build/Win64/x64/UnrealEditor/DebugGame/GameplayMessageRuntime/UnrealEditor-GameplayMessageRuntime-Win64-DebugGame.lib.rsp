@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameplayMessageRuntime-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Intermediate/Build/Win64/x64/LyraEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameplayMessageRouter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameplayMessageRuntime/Module.GameplayMessageRuntime.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameplayMessageRouter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameplayMessageRuntime/AsyncAction_ListenForGameplayMessage.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameplayMessageRouter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameplayMessageRuntime/GameplayMessageRuntime.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameplayMessageRouter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameplayMessageRuntime/GameplayMessageSubsystem.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameplayMessageRouter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameplayMessageRuntime/Default.rc2.res"
+/OUT:"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/GameplayMessageRouter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/GameplayMessageRuntime/UnrealEditor-GameplayMessageRuntime-Win64-DebugGame.lib"

@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\private\\messageprocessors\\assistprocessor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\messageprocessors\\assistprocessor.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\source\\lyragame\\messages\\gameplaymessageprocessor.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagesubsystem.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagetypes2.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagetypes2.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagesubsystem.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\gameplaymessageprocessor.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\assistprocessor.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\source\\lyragame\\messages\\lyraverbmessage.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyraverbmessage.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\source\\lyragame\\messages\\lyraverbmessagehelpers.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyraverbmessagehelpers.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\gameplaytags\\public\\nativegameplaytags.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\assistprocessor.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

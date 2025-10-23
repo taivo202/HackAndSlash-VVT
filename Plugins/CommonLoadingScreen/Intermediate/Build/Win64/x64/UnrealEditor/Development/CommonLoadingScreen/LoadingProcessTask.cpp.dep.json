@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocesstask.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonloadingscreen\\definitions.commonloadingscreen.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocesstask.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocessinterface.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingprocesstask.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingscreenmanager.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingscreenmanager.generated.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingprocesstask.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

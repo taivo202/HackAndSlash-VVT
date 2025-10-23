@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AsyncMixin-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Intermediate/Build/Win64/x64/LyraEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/AsyncMixin/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AsyncMixin/Module.AsyncMixin.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/AsyncMixin/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AsyncMixin/AsyncMixin.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/AsyncMixin/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AsyncMixin/AsyncMixinModule.cpp.obj"
+"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/AsyncMixin/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AsyncMixin/Default.rc2.res"
+/OUT:"C:/Users/iamatomic/Documents/Unreal Projects/LyraStarterGame2/Plugins/AsyncMixin/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AsyncMixin/UnrealEditor-AsyncMixin-Win64-DebugGame.lib"

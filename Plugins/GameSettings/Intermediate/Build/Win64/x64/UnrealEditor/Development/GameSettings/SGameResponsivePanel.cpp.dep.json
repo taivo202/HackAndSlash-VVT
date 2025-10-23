@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesettings\\source\\private\\widgets\\responsive\\sgameresponsivepanel.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamesettings\\definitions.gamesettings.h",
+            "c:\\users\\iamatomic\\documents\\unreal projects\\hackandslash_vovantai\\plugins\\gamesettings\\source\\private\\widgets\\responsive\\sgameresponsivepanel.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\applicationcore\\public\\hal\\platformapplicationmisc.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\applicationcore\\public\\windows\\windowsplatformapplicationmisc.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\genericplatformapplicationmisc.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\slate\\public\\widgets\\sviewport.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
